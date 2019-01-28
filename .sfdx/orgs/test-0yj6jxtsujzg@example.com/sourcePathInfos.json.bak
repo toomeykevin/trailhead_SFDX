@@ -32,14 +32,14 @@
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1548677425657,
             "changeTime": 1548677425657,
-            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "d8417619f8cb74acd7a6c2b95aaad38138801297"
         }
     ],
     [
@@ -269,14 +269,14 @@
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1548677739462,
-            "changeTime": 1548677739462,
-            "contentHash": "b5020c4a63c080faf1d3ca1d257f2c72692b5b83"
+            "modifiedTime": 1548676981210,
+            "changeTime": 1548676981210,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -295,14 +295,14 @@
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1548677828960,
-            "changeTime": 1548677828960,
-            "contentHash": "67a1214ecc7493732c6381ac476802432df44610"
+            "modifiedTime": 1548676981276,
+            "changeTime": 1548676981276,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -334,14 +334,14 @@
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
             "isDirectory": false,
+            "size": 162,
+            "modifiedTime": 1548677125132,
+            "changeTime": 1548677125132,
+            "contentHash": "1bbbcce0d44feb066ee942bab46434f0cb359970",
             "isMetadataFile": false,
-            "size": 189,
-            "modifiedTime": 1548677996579,
-            "changeTime": 1548677996579,
-            "contentHash": "c3bfd5b53e0049718fe121b7fa3b8480ce3887da"
+            "state": "u"
         }
     ],
     [
@@ -438,378 +438,92 @@
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\tabs\\Account_Locator.tab-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 267,
             "modifiedTime": 1548677425653,
             "changeTime": 1548677425653,
-            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "25b4dfb9d3c91e29d9d332b9c938caefecaf96db"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4680,
             "modifiedTime": 1548677425661,
             "changeTime": 1548677425661,
-            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "87ba65b89e99b40ff6ed5546407705fc6a63aaa5"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 18199,
             "modifiedTime": 1548677425673,
             "changeTime": 1548677425673,
-            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "5123388c414ceef0986f36f8d529b47c9abf733d"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 5016,
             "modifiedTime": 1548677425677,
             "changeTime": 1548677425677,
-            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "b2b544ad2e99c14072e4bfdeb68699b788f40af7"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
+            "isMetadataFile": true,
             "size": 4676,
             "modifiedTime": 1548677425680,
             "changeTime": 1548677425680,
-            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29",
-            "isMetadataFile": true,
-            "state": "u"
+            "contentHash": "fd1e6c74f4e46833342e9c7c9d74cc3af3fded29"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\tabs",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\tabs",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1548677425652,
             "changeTime": 1548677425652,
-            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f",
-            "isMetadataFile": false,
-            "state": "u"
+            "contentHash": "e07904c1411fc5069c20a25aedc7d6bdcade7b1f"
         }
     ],
     [
         "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\profiles",
             "isDirectory": true,
+            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1548677425680,
             "changeTime": 1548677425680,
-            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1548677739463,
-            "changeTime": 1548677739463,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1548677739529,
-            "changeTime": 1548677739529,
-            "contentHash": "52aff3586993d34ec88428891c8982b5fa7d0275"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1548677739550,
-            "changeTime": 1548677739550,
-            "contentHash": "b91ae3f4051e8ad6d6e106dc2074d49668f7c2cf"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList",
-            "isDirectory": true,
-            "isMetadataFile": false,
-            "size": 0,
-            "modifiedTime": 1548677828975,
-            "changeTime": 1548677828975,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1548677739549,
-            "changeTime": 1548677739549,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 125,
-            "modifiedTime": 1548677776968,
-            "changeTime": 1548677776968,
-            "contentHash": "3eba6cc4d99ac0d448e45bd57afb03fe5b1a848e"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 247,
-            "modifiedTime": 1548677739535,
-            "changeTime": 1548677739535,
-            "contentHash": "cd6b85d39687bc3e7ff7e8d01d139cec764fe6db"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 178,
-            "modifiedTime": 1548677797407,
-            "changeTime": 1548677797407,
-            "contentHash": "0a91b7c1bd37605f99c1e24618c24b2b0e22caa2"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1548677739551,
-            "changeTime": 1548677739551,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItem.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1548677739546,
-            "changeTime": 1548677739546,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 65,
-            "modifiedTime": 1548677739536,
-            "changeTime": 1548677739536,
-            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1548677739537,
-            "changeTime": 1548677739537,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\defult\\aura\\AccountListItem\\AccountListItemRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1548677739543,
-            "changeTime": 1548677739543,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 209,
-            "modifiedTime": 1548677828975,
-            "changeTime": 1548677828975,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 350,
-            "modifiedTime": 1548677855170,
-            "changeTime": 1548677855170,
-            "contentHash": "c812cfb2160955e048aa64ea95e059f56ef18419"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
-            "isDirectory": false,
-            "isMetadataFile": true,
-            "size": 243,
-            "modifiedTime": 1548677828966,
-            "changeTime": 1548677828966,
-            "contentHash": "9e9f03a612d61ab979166f75892ca34630005828"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 117,
-            "modifiedTime": 1548677931651,
-            "changeTime": 1548677931651,
-            "contentHash": "85dde2885dc3136657a01a064788e1599d165ce5"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 40,
-            "modifiedTime": 1548677828976,
-            "changeTime": 1548677828976,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 661,
-            "modifiedTime": 1548677828974,
-            "changeTime": 1548677828974,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 263,
-            "modifiedTime": 1548677908842,
-            "changeTime": 1548677908842,
-            "contentHash": "23e192c54abae4446435015ed1b0f954ce4ddb03"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 45,
-            "modifiedTime": 1548677828968,
-            "changeTime": 1548677828968,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
-        }
-    ],
-    [
-        "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-        {
-            "state": "u",
-            "sourcePath": "C:\\Users\\k.toomey\\Desktop\\my_sfx_project\\geolocation\\force-app\\main\\default\\classes\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
-            "isDirectory": false,
-            "isMetadataFile": false,
-            "size": 50,
-            "modifiedTime": 1548677828972,
-            "changeTime": 1548677828972,
-            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
